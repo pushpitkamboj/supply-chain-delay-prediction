@@ -9,3 +9,9 @@ Purpose of this file: this file is a step by step guide how i will be approachin
 DATA CLEANING
 1. adjust columns data types 
 2. handling missing values
+3. look if our dataset is imbalanced or not
+since our dataset is imbalanced we need to apply appropriate technique to balance it like SMOTE, ADASYN or any other based on the needs
+
+to apply such techniques we need to convert our data into numeric data, converting the dates difference, categorical to numeric and then apply this technique
+
+berfore we convert into categorical it is important to select which categorical features are important for us only then we convert them
