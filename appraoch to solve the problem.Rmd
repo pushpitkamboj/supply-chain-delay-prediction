@@ -1,0 +1,11 @@
+---
+title: "approach to solve the problem"
+author: "unknown"
+date: "`r Sys.Date()`"
+output: word_document
+---
+
+Purpose of this file: this file is a step by step guide how i will be approaching to solve the problem
+DATA CLEANING
+1. adjust columns data types 
+2. handling missing values
